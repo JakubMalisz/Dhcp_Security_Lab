@@ -48,7 +48,7 @@ The goal of this project was to analyze DHCP protocol vulnerabilities in Layer 2
 
 ## Project Documentation
 Full theoretical description, device configuration, and detailed analysis of results can be found here:
-**[Download PDF Documentation (PL)](./docs/Dhcp-Security-Lab-Documentation.pdf.pdf)**
+**[Download PDF Documentation (PL)](./docs/Dhcp-Security-Lab-Documentation.pdf)**
 
 ## Tech stack
 **Attack**:
