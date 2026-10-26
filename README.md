@@ -61,7 +61,7 @@ Full theoretical description, device configuration, and detailed analysis of res
 **Analysis:** Wireshark <br>
 
 ## Scripts overview
-1. **DHCP Starvation (coming soon):** A Python script using Scapy to generate mass DHCP DISCOVER messages with random MAC addresses (MAC Spoofing) to exhaust the DHCP server's IP pool.  
+1. **DHCP Starvation:** A Python script using Scapy to generate mass DHCP DISCOVER messages with random MAC addresses (MAC Spoofing) to exhaust the DHCP server's IP pool.  
 2. **Rogue DHCP:** A Python script for deploying an unauthorized DHCP server to redirect client traffic by spoofing Default Gateway and DNS settings (MitM attack).
 
 **Technical Note**: These scripts were developed and tested in a controlled lab environment using physical MikroTik hardware. Their effectiveness in other environments may vary depending on hardware configuration and active security mechanisms (e.g., built-in L2 protection features in different networking platforms).
